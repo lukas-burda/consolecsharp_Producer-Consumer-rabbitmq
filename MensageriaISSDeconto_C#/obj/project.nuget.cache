@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o6MCct3KluzcOphIWGeGRZX4k0yyfm1zyxCgXocVtjfJpw1nNe8cd2mChqzSnSgdjssh8GuZovYUfcLsSVvFBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aptek\\Desktop\\DEV\\docker\\MensageriaISSDeconto_C#\\MensageriaISSDeconto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aptek\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Aptek\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
